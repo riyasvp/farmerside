@@ -1,0 +1,8 @@
+{
+  "name": "farmmart-website",
+  "version": "1.0.0",
+  "description": "FarmMart - Farming Items E-Commerce Website",
+  "scripts": {
+    "start": "echo 'Static site'"
+  }
+}
